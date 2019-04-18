@@ -1,0 +1,44 @@
+//APPROVED AND REPROVED 
+
+//INPUT
+Student 1 = (input)Eduardo
+Grade 1 = (input) 60;
+Grade 2 = (input) 70;
+Grade 3 = (input) 80;
+Grade 4 = (input) 90;
+Average = ?;
+Status  = ?;
+_____________________________________________________________________
+
+//PROCESS
+if(average >= 60) Status = Approved
+if(average <= 60) Status = Reproved 
+10+20+30+40/4
+_____________________________________________________________________
+
+//OUTPUT
+Student1 = "Eduardo" 
+Average = "75" 
+Status = "Reproved"
+_____________________________________________________________________
+
+//JAVASCRIPT CODE 
+
+let student1 = "Eduardo";
+let grade1 = 60;
+let grade2 = 70;
+let grade3 = 80;
+let grade4 = 90;
+let average;
+let status;
+average = (grade1 + grade2 + grade3 + grade4) /4;
+console.log("The overall grade of " + student1 + " is " + average);
+if(average >= 60){
+status = "Approved";
+}else{
+status = "Reproved";}
+alert(student1 + " is " + status);
+
+VM210:9 The overall grade of Eduardo is 75
+undefined
+
