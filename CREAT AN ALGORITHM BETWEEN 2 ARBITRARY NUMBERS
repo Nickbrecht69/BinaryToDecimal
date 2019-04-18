@@ -1,0 +1,11 @@
+I am gonna creat an algorithm between 10 to  20 all even numbers.
+INPUT
+
+Even Numbers 10=<20
+Process
+For(Number=10; Number<20; Number+=2)
+Sum= 10+2 = 12
+Sum= 12+2= 14
+Sum= 14+2= 16  
+
+OUTPUT
