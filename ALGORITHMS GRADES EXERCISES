@@ -1,0 +1,24 @@
+//ALGORITHM`S GRADES EXERCISE
+
+(INPUT)
+Student 1 = (input)Eduardo
+Grade 1 = (input) 100;
+Grade 2 = (input) 200;
+Grade 3 = (input) 300;
+Grade 4 = (input) 400;
+Average = ?;
+______________________________________________________________________________
+
+//PROCESS 
+AVERAGE= 100*200*300*400
+______________________________________________________________________________
+//JAVASCRIPT CODE 
+let student1 = "Eduardo";
+let grade1 = 100;
+let grade2 = 200;
+let grade3 = 300;
+let grade4 = 400;
+let average;
+average = (grade1 + grade2 + grade3 + grade4) /4;
+console.log("The overall grade of " + student1 + " is " + average);
+______________________________________________________________________________
