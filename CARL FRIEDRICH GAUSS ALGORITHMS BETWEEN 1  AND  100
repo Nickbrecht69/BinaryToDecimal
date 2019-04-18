@@ -11,3 +11,16 @@ Sum= 5050
 
 OUTPUT
 PRINT
+
+FEEDBACK
+
+
+GAUSS METHOD 
+//Input 
+var sum = 0
+var i = 1
+var n = 100
+//Processsum = (n*(n+i))/2
+//OutputPrint sum
+Check
+(100*(100+1))/2 = 5050
