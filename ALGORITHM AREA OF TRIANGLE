@@ -1,7 +1,7 @@
 INPUT
 B =input;
 H =input;
-A=?;
+A=1/2*B*H;
 
 process
 A= 1/2 * B * H
