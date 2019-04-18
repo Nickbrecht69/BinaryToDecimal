@@ -1,0 +1,15 @@
+Create an algorithm to add even numbers from 1 to 100
+Input
+Number
+Total Even Number
+
+Process for (Number=0; Number<100 ; Number+=2)
+Sum= (Number + Number +=2)
+Sum= 0+2
+Sum= 2
+Sum= (Sum+Number+=2)
+Sum= 2+2=4
+Output
+
+Print
+
