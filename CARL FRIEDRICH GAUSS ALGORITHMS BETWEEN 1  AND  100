@@ -1,0 +1,13 @@
+NPUT
+Numbers between 1 and 100 
+S= n(n+1)/2
+S= 100(100+1)/2
+Process
+Sum = (Number*; Number+1;)/2
+
+Sum= 100*101/2
+Sum=10100/2
+Sum= 5050
+
+OUTPUT
+PRINT
