@@ -1,0 +1,11 @@
+INPUT
+B =input;
+H =input;
+A=?;
+
+process
+A= 1/2 * B * H
+
+OUTPUT
+
+PRINT A
