@@ -1,0 +1,13 @@
+W=input
+R=input;
+
+A=?
+
+process
+
+A= W*L
+
+OUTPUT
+
+PRINT A
+
