@@ -1,0 +1,57 @@
+ALGORITHM`S STRUCTURE
+
+INPUT i= Interations
+
+let (i); "interations"
+NUMBER
+TOTAL
+______________________________________________________________________________
+//PROCESS
+
+FOR(Number = 11; Number < 23; Number += 
+      COND1        COND2
+
+           SUM + = Number   
+______________________________________________________________________________
+ //JAVASCRIPT CODE 
+
+PRINT (SUM)
+______________________________________________________________________________
+
+//STRING "ABCDEFG" (WORDS)
+______________________________________________________________________________
+
+//let (i); "interations"
+______________________________________________________________________________
+
+//if R is = 0 means = ! affirmation
+//if R is == 0 means = ? question
+______________________________________________________________________________
+
+var r = 0;                                 "dont take an umbrella"
+
+if(r==0){
+alert("Dont take an umbrella");
+} else{
+alert("take an umbrella")
+}
+______________________________________________________________________________
+
+var r = 1;                                  "take an umbrella"
+
+if(r==1){
+alert("take an umbrella");
+} else{
+alert("Dont take an umbrella")
+}
+______________________________________________________________________________
+LET vs VAR
+
+LET= LOCAL 
+Just for u to working in local
+______________________________________________________________________________
+
+VAR= GLOBAL
+
+it`s Global anyone can access your code it stays open
+
