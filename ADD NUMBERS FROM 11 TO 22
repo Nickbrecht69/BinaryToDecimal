@@ -1,0 +1,39 @@
+//ADD NUMBERS FROM 11 TO 22
+                                     
+//INPUT
+
+NUMBER;
+SUM = 0;
+______________________________________________________________________________
+
+(PROCESS)
+FOR(NUMBER = 11; NUMBER <23; NUMBER ++ 
+SUM+=NUMBER
+______________________________________________________________________________
+
+//OUTPUT
+SUM= 198
+______________________________________________________________________________
+//JAVASCRIPT CODE  
+
+var number;
+var sum = 0;
+for(number=11;number<23;number++){
+sum+=number;
+console.log(number);
+}
+alert("Sum is " + sum);
+
+VM544:5 11
+VM544:5 12
+VM544:5 13
+VM544:5 14
+VM544:5 15
+VM544:5 16
+VM544:5 17
+VM544:5 18
+VM544:5 19
+VM544:5 20
+VM544:5 21
+VM544:5 22
+undefined
