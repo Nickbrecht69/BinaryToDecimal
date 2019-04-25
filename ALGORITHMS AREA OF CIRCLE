@@ -1,11 +1,10 @@
 INPUT
 Pi/𝜋 = 3.14
 R=input;
-H=input;
 A=?;
 
 PROCESS
-A=2𝜋rh+2𝜋R^2
+A=pi*r^2
 
 OUTPUT
 PRINT A
